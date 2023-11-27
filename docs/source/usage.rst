@@ -20,11 +20,15 @@ Signing-in
 You first need to authenticate in order to use the app.
 You will be provided with an user and password and the URL of the platform.
 See the image below
-![How to sign-in](/images/signing_in.png "signing_in")
+
+.. image:: images/signing_in.png
 
 The steps are as follows:
 
-a)Open QfieldCloud projects and 
-b) Double click in the [bee icon](/images/bee-icon.png)
+a) Open QfieldCloud projects
+ 
+b) Double click in the .. image:: images/bee-icon.png
+
 c) Configure the server URL mapfra.itc.utwente.nl and type your username and password. Click on sign in.
+
 d) After successfully signing in, you will see the project list

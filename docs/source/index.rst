@@ -17,7 +17,8 @@ statistics.
 
 **** (/The app/ builds on) .
 The mobile data collection application is built on the
-[Qfield architecture](https://https://qfield.org)
+`Qfield architecture <https://qfield.org/>`_
+
 and offers a *simple* and *intuitive* API.
 
 Check out the :doc:`usage` section for further information, including
