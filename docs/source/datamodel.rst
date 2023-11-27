@@ -1,4 +1,4 @@
-DATA model 
+Data model 
 ==========
 
 .. autosummary::

@@ -49,7 +49,7 @@ The Database server contains both, reference data and the survey layers to be po
 
 The image below shows the geospatial data included in the app.
 
-.. image:: images/layers.png
+.. image:: images/layers.jpg
 
 
 Qfield cloud
