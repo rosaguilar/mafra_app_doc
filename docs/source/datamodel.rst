@@ -1,7 +1,7 @@
-API
-===
+DATA model 
+==========
 
 .. autosummary::
    :toctree: generated
 
-   lumache
+   

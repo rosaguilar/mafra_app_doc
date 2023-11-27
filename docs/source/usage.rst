@@ -9,9 +9,9 @@ Installation
 To use the mobile app, first install **Qfield**.
 Installation of the *QField* app is really straightforward. For Android
 phones, one uses the Google PlayStore to find and install it, 
-[search qfield](https://play.google.com/store/search?q=Qfield&c=apps&pli=1)
-
-For an iOS phone, the Apple AppStore provides the same [search qfield ios](https://apps.apple.com/us/app/qfieldfor-qgis/id1531726814)
+`Search Android <https://play.google.com/store/search?q=Qfield&c=apps&pli=1/>`_
+For an iOS phone, the Apple AppStore provides the same
+`Search IOS <https://apps.apple.com/us/app/qfieldfor-qgis/id1531726814/>`_
 
 
 Signing-in
